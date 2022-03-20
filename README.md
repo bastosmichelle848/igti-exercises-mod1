@@ -1,1 +1,1 @@
-# Criação de esteiras de deploy através do GitHub
+# Criação de esteiras de deploy de infraestrutura através do GitHub
