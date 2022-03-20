@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "dl" {
-  bucket = "terraform-state-igti-mi"
+  bucket = "datalake-michelle-igti-edc-tf"
   acl    = "private"
 
   tags = {
